@@ -16,10 +16,7 @@ const ContentHeader = () => {
           Get Started
         </button>
       </div>
-      <div
-        className="relative left-20 sm:left-0 md:w-8/12 lg:w-1/2"
-        style={{ width: 465 }}
-      >
+      <div className="relative left-20 sm:left-0 w-[465px] md:w-8/12 lg:w-1/2">
         <img src={Illustration} alt="Illustation Working" />
       </div>
     </div>
